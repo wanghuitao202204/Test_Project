@@ -17,6 +17,8 @@ git commit
 - John Adams
 - Thomas Jefferson
 
+@octocat :+1: このPRは素晴らしいです - マージできますね！ :shipit:
+
 [GitHub Pages](https://pages.github.com/)
 
 <picture>
